@@ -1,0 +1,15 @@
+C:\Origin_Repoz\HomeWork001\Task002\bin\Debug\net6.0\Task002.exe
+C:\Origin_Repoz\HomeWork001\Task002\bin\Debug\net6.0\Task002.deps.json
+C:\Origin_Repoz\HomeWork001\Task002\bin\Debug\net6.0\Task002.runtimeconfig.json
+C:\Origin_Repoz\HomeWork001\Task002\bin\Debug\net6.0\Task002.dll
+C:\Origin_Repoz\HomeWork001\Task002\bin\Debug\net6.0\Task002.pdb
+C:\Origin_Repoz\HomeWork001\Task002\obj\Debug\net6.0\Task002.csproj.AssemblyReference.cache
+C:\Origin_Repoz\HomeWork001\Task002\obj\Debug\net6.0\Task002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Origin_Repoz\HomeWork001\Task002\obj\Debug\net6.0\Task002.AssemblyInfoInputs.cache
+C:\Origin_Repoz\HomeWork001\Task002\obj\Debug\net6.0\Task002.AssemblyInfo.cs
+C:\Origin_Repoz\HomeWork001\Task002\obj\Debug\net6.0\Task002.csproj.CoreCompileInputs.cache
+C:\Origin_Repoz\HomeWork001\Task002\obj\Debug\net6.0\Task002.dll
+C:\Origin_Repoz\HomeWork001\Task002\obj\Debug\net6.0\refint\Task002.dll
+C:\Origin_Repoz\HomeWork001\Task002\obj\Debug\net6.0\Task002.pdb
+C:\Origin_Repoz\HomeWork001\Task002\obj\Debug\net6.0\Task002.genruntimeconfig.cache
+C:\Origin_Repoz\HomeWork001\Task002\obj\Debug\net6.0\ref\Task002.dll
