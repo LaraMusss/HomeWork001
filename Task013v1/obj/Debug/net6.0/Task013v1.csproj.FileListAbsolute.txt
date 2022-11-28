@@ -1,0 +1,15 @@
+C:\Origin_Repoz\HomeWork001\Task013v1\bin\Debug\net6.0\Task013v1.exe
+C:\Origin_Repoz\HomeWork001\Task013v1\bin\Debug\net6.0\Task013v1.deps.json
+C:\Origin_Repoz\HomeWork001\Task013v1\bin\Debug\net6.0\Task013v1.runtimeconfig.json
+C:\Origin_Repoz\HomeWork001\Task013v1\bin\Debug\net6.0\Task013v1.dll
+C:\Origin_Repoz\HomeWork001\Task013v1\bin\Debug\net6.0\Task013v1.pdb
+C:\Origin_Repoz\HomeWork001\Task013v1\obj\Debug\net6.0\Task013v1.csproj.AssemblyReference.cache
+C:\Origin_Repoz\HomeWork001\Task013v1\obj\Debug\net6.0\Task013v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Origin_Repoz\HomeWork001\Task013v1\obj\Debug\net6.0\Task013v1.AssemblyInfoInputs.cache
+C:\Origin_Repoz\HomeWork001\Task013v1\obj\Debug\net6.0\Task013v1.AssemblyInfo.cs
+C:\Origin_Repoz\HomeWork001\Task013v1\obj\Debug\net6.0\Task013v1.csproj.CoreCompileInputs.cache
+C:\Origin_Repoz\HomeWork001\Task013v1\obj\Debug\net6.0\Task013v1.dll
+C:\Origin_Repoz\HomeWork001\Task013v1\obj\Debug\net6.0\refint\Task013v1.dll
+C:\Origin_Repoz\HomeWork001\Task013v1\obj\Debug\net6.0\Task013v1.pdb
+C:\Origin_Repoz\HomeWork001\Task013v1\obj\Debug\net6.0\Task013v1.genruntimeconfig.cache
+C:\Origin_Repoz\HomeWork001\Task013v1\obj\Debug\net6.0\ref\Task013v1.dll
