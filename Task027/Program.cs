@@ -8,7 +8,8 @@ for (int i=0; i<array.Length; i++)
 {
     array[i] = number[i];
     count++;
-    sum=sum+number[i];
-    Console.WriteLine(number[i]);
+    sum=sum+array[i];
+    Console.WriteLine(array[i]);
+    Console.WriteLine(sum);
 }
-Console.WriteLine(sum);
+//Console.WriteLine(sum);
