@@ -1,30 +1,31 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Задание финальное ввестим массив строк, 
+// вывести только массив из строк не > 3 символов
 Console.WriteLine("Hello, Final 01/4!");
-string[] array1 = new string[5] {"Russian", "12", "Education", "hi", "GeekBrains"};
-string[] array2 = new string[array1.Length];
+string[] arr1 = new string[5] {"Hello", "GeekBrains", "48", "OK", "Program"};
+string[] arr2 = new string[arr1.Length];
 
-void SecondArrayWithIF(string[] array1, string[] array2)
+void Array(string[] arr1, string[] arr2)
 {
     int count = 0;
-    for (int i = 0; i < array1.Length; i++)
+    for (int i = 0; i < arr1.Length; i++)
     {
-    if(array1[i].Length <= 3)
+    if(arr1[i].Length <= 3)
         {
-        array2[count] = array1[i];
+        arr2[count] = arr1[i];
         count++;
         }
     }
 }
-void PrintArray(string[] array)
+void PrintArray(string[] arr)
 {
-    for (int i = 0; i < array.Length; i++)
+    for (int i = 0; i < arr.Length; i++)
     {
-        Console.Write($"{array[i]} ");
+        Console.Write($"{arr[i]} ");
     }
     Console.WriteLine();
 }
-SecondArrayWithIF(array1, array2);
-System.Console.WriteLine("Вывод оригинального массива");
-PrintArray(array1);
-System.Console.WriteLine("Вывод нового массива");
-PrintArray(array2);
+Array(arr1, arr2);
+System.Console.WriteLine("Первый массив:  ");
+PrintArray(arr1);
+System.Console.WriteLine("Новый массив:  ");
+PrintArray(arr2);
